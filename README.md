@@ -1,0 +1,1 @@
+This project is a **Beautiful, Interactive Note Keeper Web App** that allows users to create, edit, delete, search, and organize notes with tags and pinned status, featuring a dark/light theme and real-time statistics.
